@@ -22,5 +22,5 @@ function mac () {
 function buscar () {
     var busqueda = prompt("Buscar en Peac:");
 
-    alert("Por el momento esto es todo en b´ñusqueda, la sección sigue en desarrollo");
+    alert("Por el momento esto es todo en búsqueda, la sección sigue en desarrollo");
 }
